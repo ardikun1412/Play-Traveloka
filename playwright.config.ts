@@ -28,7 +28,7 @@ export default defineConfig({
     },
     baseURL: 'https://www.traveloka.com',
     trace: 'on-first-retry',
-    headless: false,
+    headless: true,
     screenshot: 'on',
   },
 
