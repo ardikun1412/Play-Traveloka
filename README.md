@@ -2,4 +2,4 @@
 
 Welcome to the repository for exploring Playwright using Traveloka as the testing object. This repository contains scripts and examples demonstrating the use of Playwright for automating and testing web applications, specifically targeting the Traveloka website.
 
-NB : Features, Project Structure and Setup will be update soon. im sleepy right now. *if I don't forget LOL
+NB : Features, Project Structure and Setup will be update soon.
